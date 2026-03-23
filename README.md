@@ -1,11 +1,5 @@
 # Fortune 500 — Revenue Stability Analysis (2020–2023)
 
-**Course:** Analytical Methods in Engineering Systems  
-**Authors:** Mahesh Kanchipal & Nikhil M  
-**Submission Date:** March 15, 2026
-
----
-
 ## 📌 Project Overview
 
 This project analyzes the **revenue stability and financial performance** of Fortune 500 companies over a 4-year period (2020–2023). Using a dataset of 500 companies across multiple sectors, we apply a comprehensive set of analytical methods — from descriptive statistics to PCA — to uncover patterns, trends, and risks in corporate financial data.
@@ -104,36 +98,3 @@ Fortune500-Analysis/
 - Findings apply only to large-cap U.S. companies
 - Derived columns may propagate base data errors
 - Missing values for some companies in certain years
-
----
-
-## 📄 License
-
-This project is submitted for academic purposes only as part of the Analytical Methods in Engineering Systems course.
-```
-
-After pasting, scroll down → commit message: `Add README` → click **"Commit changes"**
-
----
-
-## Step 3 — Upload Your 3 Files
-
-1. In the repo, click **"Add file" → "Upload files"**
-2. Drag and drop all 3 files:
-   - `Revenue_Stability_Over_Time_Mahesh_Kanchipal_Nikhil_M.ipynb`
-   - `Fortuene500-Company-100-Dataset.csv`
-   - `Revenue_Stability_Over_Time_Mahesh_Kanchipal_Nikhil_M.pdf`
-3. Commit message: `Add project files — notebook, dataset and PDF export`
-4. Click **"Commit changes"**
-
----
-
-## Step 4 — Final Check
-
-Once done, your repo at `github.com/<your-username>/Fortune500-Analysis` should look like this:
-```
-Fortune500-Analysis/
-├── 📓 Revenue_Stability_Over_Time_Mahesh_Kanchipal_Nikhil_M.ipynb
-├── 📊 Fortuene500-Company-100-Dataset.csv
-├── 📄 Revenue_Stability_Over_Time_Mahesh_Kanchipal_Nikhil_M.pdf
-└── 📝 README.md
